@@ -21,7 +21,7 @@ export const navLinks = [
   },
   {
     id: "product",
-    title: "FreePro 5G",
+    title: "Mobile free Pro 5G",
   },
   {
     id: "clients",
@@ -103,22 +103,12 @@ export const feedback = [
 export const socialMedia = [
   {
     id: "social-media-1",
-    icon: instagram,
-    link: "https://www.instagram.com/",
+    icon: facebook,
+    link: "https://www.facebook.com/Free-Pro-Partenaire-113843011710454",
   },
   {
     id: "social-media-2",
-    icon: facebook,
-    link: "https://www.facebook.com/",
-  },
-  {
-    id: "social-media-3",
-    icon: twitter,
-    link: "https://www.twitter.com/",
-  },
-  {
-    id: "social-media-4",
     icon: linkedin,
-    link: "https://www.linkedin.com/",
+    link: "https://www.linkedin.com/company/free-pro-partenaire/",
   },
 ];

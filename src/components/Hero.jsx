@@ -20,12 +20,12 @@ const Hero = () => {
           </div>
         </div>
 
-        <h1 className="font-poppins font-semibold ss:text-[50px] text-[48px] text-white ss:leading-[100.8px] leading-[75px] w-full">
-          POUR LES RÉSEAUX D’AGENCE​ .
+        <h1 className="font-poppins font-semibold ss:text-[40px] text-[38px] text-white ss:leading-[80.8px] leading-[75px] w-full">
+          Les technologies accessibles à toutes les entreprises !
         </h1>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-          Arcu tortor, purus in mattis at sed integer faucibus. Aliquet quis
-          aliquet eget mauris tortor.ç Aliquet ultrices ac, ametau.
+          Free Pro est l’alternative qui libère les entreprises en leur
+          redonnant le pouvoir sur la gestion intégrale de leurs données
         </p>
       </div>
 
