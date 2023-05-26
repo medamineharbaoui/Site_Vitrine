@@ -21,7 +21,7 @@ const Hero = () => {
         </div>
 
         <h1 className="font-poppins font-semibold ss:text-[40px] text-[38px] text-white ss:leading-[80.8px] leading-[75px] w-full">
-          Les technologies accessibles à toutes les entreprises !
+          La fibre accessible à toutes les entreprises !
         </h1>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
           Free Pro est l’alternative qui libère les entreprises en leur

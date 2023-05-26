@@ -20,23 +20,16 @@ const MyForm = () => (
         <br />
         <TextField
           sx={{ input: { color: "white" } }}
-          required
           id="outlined-required"
           label="Nom et Prénom"
         />
         <br />
         <TextField
           sx={{ input: { color: "white" } }}
-          required
           id="outlined-required"
           label="Nom de l'entreprise"
         />
-        <br />
-        <TextField
-          sx={{ input: { color: "white" } }}
-          id="outlined-helperText"
-          label="Poste"
-        />
+
         <br />
         <TextField
           sx={{ input: { color: "white" } }}
@@ -49,7 +42,6 @@ const MyForm = () => (
         <div style={{ display: "flex", justifyContent: "space-between" }}>
           <TextField
             sx={{ input: { color: "white" } }}
-            required
             id="outlined-required"
             label="E-mail"
           />
